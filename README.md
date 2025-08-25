@@ -54,9 +54,9 @@
 ---
 
 ## 🌐 Conecta conmigo
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/urri3967)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Uribarrien_m)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauribarrien@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=byAlex4&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
