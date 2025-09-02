@@ -1,19 +1,51 @@
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   <h1>¡Hola! 👋 Soy Alejandro </h1>
   <h3>Full-Stack Developer | DevOps </h3>
 </div>
 
+### 🚀 Sobre mí
+
+Soy un **desarrollador Full-Stack con especial interés en el desarrollo móvil y front-end**, aunque también cuento con experiencia sólida en back-end, bases de datos, seguridad y administración de servidores. Me apasiona construir soluciones digitales robustas, escalables y bien documentadas.
+
+**Tecnologías que uso con frecuencia:**  
+- 🛠️ **Lenguajes**: PHP, JavaScript, SQL, HTML/CSS  
+- ⚙️ **Frameworks y librerías**: React Native, Bootstrap, DataTables, Socket.io, WebRTC, MVC  
+- 🔧 **Herramientas**: Git, DigitalOcean, Apache, MySQL, Fail2Ban, Expo, Stripe  
+- 📂 **Metodologías**: Trabajo en equipo, documentación clara, resolución de problemas, refactorización y migraciones
+
 ---
 
-## 💫 Sobre mí
-- 🚀 Actualmente trabajando en una empresa de desarrollo tecnologico en abito de la medicina
-- 📱 Experiencia en **apps nativas con React Native** y desarrollo web con **JavaScript / TypeScript**.
-- 💻 Desarrollo de **aplicaciones web en PHP, MySQL** y frameworks modernos.
-- 🛠 Gestión y despliegue de servidores en **Ubuntu, Apache, Nginx**, con experiencia en **DevOps**.
-- 🎓 Graduado de **Ingeniería en Tecnologias de la Informacion y Comunicaciones** por el **Instituto Tecnologico de Aguascalientes**.
-- 🧩 Apasionado por crear soluciones integrales: desde backend robusto hasta interfaces atractivas y funcionales.
+### 📈 Mi evolución
 
+Comencé realizando tareas de **front-end y desarrollo de interfaces**, pero con el tiempo fui ampliando mis habilidades hacia la **integración de APIs, administración de bases de datos, seguridad y DevOps**. Aprendí a implementar y optimizar tecnologías complejas como **WebRTC y videollamadas**, e incluso migré proyectos hacia soluciones más robustas como **Jitsi Meet**.
+
+Con el tiempo, gané autonomía y pasé de recibir tareas específicas a **proponer mejoras, refactorizar código, diseñar arquitecturas y planear migraciones**. Lideré la integración de proyectos completos como:
+
+- ✅ **MediCost** (cotizador médico)  
+- ✅ **Funnel de Ventas** (CRM interno)  
+- ✅ **Sistema de registro de actividades y tareas**  
+- ✅ **Aplicaciones móviles con React Native** para pacientes y doctores
+
+Ahora busco siempre implementar **patrones de diseño como MVC**, optimizar consultas SQL, mejorar la experiencia de usuario y asegurar que los sistemas sean escalables y mantenibles.
+
+---
+
+### 🧠 Lo que me define
+
+- **Versatilidad**: Tengo experiencia en front-end, back-end, móvil, bases de datos, servidores y seguridad.  
+- **Aprendizaje rápido**: Me adapto con facilidad a nuevas tecnologías y frameworks.  
+- **Documentación**: Valoro el orden y la claridad tanto en el código como en la documentación de proyectos.  
+- **Trabajo en equipo**: Disfruto colaborar, hacer pair programming y contribuir en reuniones de diseño y planning.
+
+---
+
+### 🌱 Lo que sigue
+
+Sigo aprendiendo sobre **arquitecturas limpias, automatización con CI/CD, testing y seguridad avanzada**. Mi objetivo es continuar creciendo como desarrollador y eventually consolidarme como **Tech Lead o Arquitecto de Software**.
+
+---
+
+¿Te interesa colaborar o conversar? ¡No dudes en contactarme!
 ---
 
 ## 🌟 Proyectos Destacados
@@ -35,14 +67,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)
 
 **DevOps & Infraestructura**
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333?style=flat&logo=ubuntu)
 ![Apache](https://img.shields.io/badge/-Apache-333?style=flat&logo=apache)
 ![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat&logo=nginx)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
 
 ---
@@ -51,16 +81,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=byAlex4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=byAlex4&theme=tokyonight&hide_border=false&layout=compact)
 
----
-
-## 🌐 Conecta conmigo
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=byAlex4&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=byAlex4&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=byAlex4&limit=5&theme=dark&combine_all_yearly_contributions=true)
