@@ -8,10 +8,10 @@
 Soy un **desarrollador Full-Stack con especial interés en el desarrollo móvil y front-end**, aunque también cuento con experiencia sólida en back-end, bases de datos, seguridad y administración de servidores. Me apasiona construir soluciones digitales robustas, escalables y bien documentadas.
 
 **Tecnologías que uso con frecuencia:**  
-- 🛠️ **Lenguajes**: PHP, JavaScript, SQL, HTML/CSS  
-- ⚙️ **Frameworks y librerías**: React Native, Bootstrap, DataTables, Socket.io, WebRTC, MVC  
-- 🔧 **Herramientas**: Git, DigitalOcean, Apache, MySQL, Fail2Ban, Expo, Stripe  
-- 📂 **Metodologías**: Trabajo en equipo, documentación clara, resolución de problemas, refactorización y migraciones
+- **Lenguajes**: PHP, JavaScript, SQL, HTML/CSS  
+- **Frameworks y librerías**: React Native, Bootstrap, DataTables, Socket.io, WebRTC, MVC  
+- **Herramientas**: Git, DigitalOcean, Apache, MySQL, Fail2Ban, Expo, Stripe  
+- **Metodologías**: Trabajo en equipo, documentación clara, resolución de problemas, refactorización y migraciones
 
 ---
 
@@ -26,16 +26,7 @@ Con el tiempo, gané autonomía y pasé de recibir tareas específicas a **propo
 - ✅ **Sistema de registro de actividades y tareas**  
 - ✅ **Aplicaciones móviles con React Native** para pacientes y doctores
 
-Ahora busco siempre implementar **patrones de diseño como MVC**, optimizar consultas SQL, mejorar la experiencia de usuario y asegurar que los sistemas sean escalables y mantenibles.
-
----
-
-### 🧠 Lo que me define
-
-- **Versatilidad**: Tengo experiencia en front-end, back-end, móvil, bases de datos, servidores y seguridad.  
-- **Aprendizaje rápido**: Me adapto con facilidad a nuevas tecnologías y frameworks.  
-- **Documentación**: Valoro el orden y la claridad tanto en el código como en la documentación de proyectos.  
-- **Trabajo en equipo**: Disfruto colaborar, hacer pair programming y contribuir en reuniones de diseño y planning.
+Ahora busco implementar **patrones de diseño como MVC**, optimizar consultas SQL, mejorar la experiencia de usuario y asegurar que los sistemas sean escalables y mantenibles.
 
 ---
 
@@ -43,9 +34,6 @@ Ahora busco siempre implementar **patrones de diseño como MVC**, optimizar cons
 
 Sigo aprendiendo sobre **arquitecturas limpias, automatización con CI/CD, testing y seguridad avanzada**. Mi objetivo es continuar creciendo como desarrollador y eventually consolidarme como **Tech Lead o Arquitecto de Software**.
 
----
-
-¿Te interesa colaborar o conversar? ¡No dudes en contactarme!
 ---
 
 ## 🌟 Proyectos Destacados
