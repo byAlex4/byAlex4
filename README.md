@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>¡Hola! 👋 Soy Alejandro </h1>
+  <h1>Hola! Soy Alejandro =D </h1>
   <h3>Full-Stack Developer | DevOps </h3>
 </div>
 
-### 🚀 Sobre mí
+### Sobre mí
 
 Soy un **desarrollador Full-Stack con especial interés en el desarrollo móvil y front-end**, aunque también cuento con experiencia sólida en back-end, bases de datos, seguridad y administración de servidores. Me apasiona construir soluciones digitales robustas, escalables y bien documentadas.
 
@@ -15,35 +15,35 @@ Soy un **desarrollador Full-Stack con especial interés en el desarrollo móvil 
 
 ---
 
-### 📈 Mi evolución
+### Mi evolución
 
 Comencé realizando tareas de **front-end y desarrollo de interfaces**, pero con el tiempo fui ampliando mis habilidades hacia la **integración de APIs, administración de bases de datos, seguridad y DevOps**. Aprendí a implementar y optimizar tecnologías complejas como **WebRTC y videollamadas**, e incluso migré proyectos hacia soluciones más robustas como **Jitsi Meet**.
 
 Con el tiempo, gané autonomía y pasé de recibir tareas específicas a **proponer mejoras, refactorizar código, diseñar arquitecturas y planear migraciones**. Lideré la integración de proyectos completos como:
 
-- ✅ **MediCost** (cotizador médico)  
-- ✅ **Funnel de Ventas** (CRM interno)  
-- ✅ **Sistema de registro de actividades y tareas**  
-- ✅ **Aplicaciones móviles con React Native** para pacientes y doctores
+- **MediCost** (cotizador médico)  
+- **Funnel de Ventas** (CRM interno)  
+- **Sistema de registro de actividades y tareas**  
+- **Aplicaciones móviles con React Native** para pacientes y doctores
 
 Ahora busco implementar **patrones de diseño como MVC**, optimizar consultas SQL, mejorar la experiencia de usuario y asegurar que los sistemas sean escalables y mantenibles.
 
 ---
 
-### 🌱 Lo que sigue
+### Lo que sigue
 
 Sigo aprendiendo sobre **arquitecturas limpias, automatización con CI/CD, testing y seguridad avanzada**. Mi objetivo es continuar creciendo como desarrollador y eventually consolidarme como **Tech Lead o Arquitecto de Software**.
 
 ---
 
-## 🌟 Proyectos Destacados
+## Proyectos Destacados
 - **Expediente Clínico Web** – Plataforma para gestión de pacientes, agenda médica y expedientes electrónicos.
 - **Sistema de Ventas Farmacéutica** – Catálogo dinámico con carga infinita y control de inventario.
 - **Agenda Médica Interactiva** – Selección de días y horarios con flujo por pasos para intervenciones.
 - **Servidor Multi-Proyectos** – Configuración de entornos con múltiples versiones de PHP y MySQL en subdominios.
 ---
 
-## 💻 Stack Tecnológico
+## Stack Tecnológico
 
 **Lenguajes & Frameworks**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
