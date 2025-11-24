@@ -19,14 +19,7 @@ Soy un **desarrollador Full-Stack con especial interés en el desarrollo móvil 
 
 Comencé realizando tareas de **front-end y desarrollo de interfaces**, pero con el tiempo fui ampliando mis habilidades hacia la **integración de APIs, administración de bases de datos, seguridad y DevOps**. Aprendí a implementar y optimizar tecnologías complejas como **WebRTC y videollamadas**, e incluso migré proyectos hacia soluciones más robustas como **Jitsi Meet**.
 
-Con el tiempo, gané autonomía y pasé de recibir tareas específicas a **proponer mejoras, refactorizar código, diseñar arquitecturas y planear migraciones**. Lideré la integración de proyectos completos como:
-
-- **MediCost** (cotizador médico)  
-- **Funnel de Ventas** (CRM interno)  
-- **Sistema de registro de actividades y tareas**  
-- **Aplicaciones móviles con React Native** para pacientes y doctores
-
-Ahora busco implementar **patrones de diseño como MVC**, optimizar consultas SQL, mejorar la experiencia de usuario y asegurar que los sistemas sean escalables y mantenibles.
+Con el tiempo, gané autonomía y pasé de recibir tareas específicas a **proponer mejoras, refactorizar código, diseñar arquitecturas y planear migraciones**. Lideré la integración de proyectos completos, ahora busco implementar **patrones de diseño como MVC**, optimizar consultas SQL, mejorar la experiencia de usuario y asegurar que los sistemas sean escalables y mantenibles.
 
 ---
 
@@ -41,6 +34,9 @@ Sigo aprendiendo sobre **arquitecturas limpias, automatización con CI/CD, testi
 - **Sistema de Ventas Farmacéutica** – Catálogo dinámico con carga infinita y control de inventario.
 - **Agenda Médica Interactiva** – Selección de días y horarios con flujo por pasos para intervenciones.
 - **Servidor Multi-Proyectos** – Configuración de entornos con múltiples versiones de PHP y MySQL en subdominios.
+- **Telemedicina** - Plataforma web de videollamadas con WebRTC y Socket.io.
+- **Widget de sopporte** - Componente facil de integrar para dar soporte a usuarios en los proyectos con chat en tiempo real.
+- **Aplicaciones nativas** - Apps en React Native para agendar citas con los doctores.
 ---
 
 ## Stack Tecnológico
