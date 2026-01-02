@@ -15,15 +15,7 @@ Soy un **desarrollador Full-Stack con especial interés en el desarrollo móvil 
 
 ---
 
-### Mi evolución
-
-Comencé realizando tareas de **front-end y desarrollo de interfaces**, pero con el tiempo fui ampliando mis habilidades hacia la **integración de APIs, administración de bases de datos, seguridad y DevOps**. Aprendí a implementar y optimizar tecnologías complejas como **WebRTC y videollamadas**, e incluso migré proyectos hacia soluciones más robustas como **Jitsi Meet**.
-
-Con el tiempo, gané autonomía y pasé de recibir tareas específicas a **proponer mejoras, refactorizar código, diseñar arquitecturas y planear migraciones**. Lideré la integración de proyectos completos, ahora busco implementar **patrones de diseño como MVC**, optimizar consultas SQL, mejorar la experiencia de usuario y asegurar que los sistemas sean escalables y mantenibles.
-
----
-
-### Lo que sigue
+### Desarrollo constante
 
 Sigo aprendiendo sobre **arquitecturas limpias, automatización con CI/CD, testing y seguridad avanzada**. Mi objetivo es continuar creciendo como desarrollador y eventually consolidarme como **Tech Lead o Arquitecto de Software**.
 
@@ -62,8 +54,12 @@ Sigo aprendiendo sobre **arquitecturas limpias, automatización con CI/CD, testi
 ---
 
 ## 📊 Estadísticas
-![](https://github-readme-stats.vercel.app/api?username=byAlex4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=byAlex4&theme=tokyonight&hide_border=false&layout=compact)
+![](https://raw.githubusercontent.com/byAlex4/byAlex4/master/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/byAlex4/byAlex4/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/byAlex4/byAlex4/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=byAlex4&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=byAlex4&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Metrics](https://raw.githubusercontent.com/byAlex4/byAlex4/main/github-metrics.svg)
+![](https://streak-stats.demolab.com?user=byAlex4&theme=tokyonight)
+![](https://github-readme-activity-graph.vercel.app/graph?username=byAlex4&theme=tokyo-night)
+
+
