@@ -54,12 +54,10 @@ Sigo aprendiendo sobre **arquitecturas limpias, automatización con CI/CD, testi
 ---
 
 ## 📊 Estadísticas
-![](https://raw.githubusercontent.com/byAlex4/byAlex4/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/byAlex4/byAlex4/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/byAlex4/byAlex4/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![GitHub followers](https://img.shields.io/github/followers/byAlex4?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/byAlex4?style=for-the-badge)
 
-![Metrics](https://raw.githubusercontent.com/byAlex4/byAlex4/main/github-metrics.svg)
-![](https://streak-stats.demolab.com?user=byAlex4&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=byAlex4&theme=dark&locale=es)](https://git.io/streak-stats)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=byAlex4&theme=tokyo-night)
 
 
