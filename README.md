@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hola! Soy Alejandro =D </h1>
-  <h3>Full-Stack Developer | DevOps </h3>
+  <h1>Full-Stack Developer | DevOps </h1>
 </div>
 
 ### Sobre mí
